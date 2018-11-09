@@ -25,7 +25,7 @@ with open(sys.argv[1], 'r') as fi:
         tree =  re.search(r"(^(\d{1,}.)+)", line)
 
         # find if the comment is Pro or Con
-        faction = re.search(r"(Con|Pro(?::))", line)
+        stance = re.search(r"(Con|Pro(?::))", line)
 
         # find the text of the comment 
         content = re.search(r"((Con|Pro):\s)(.*)", line)
@@ -39,9 +39,9 @@ with open(sys.argv[1], 'r') as fi:
         # and put it at the end of the list
         result.append({
             "Tree": tree.group(),
-            "Faction": faction.group(),
-            "ToneInput": content.group(3),
-            "Level": level
+            "Level": level,
+            "Stance": stance.group(),
+            "ToneInput": content.group(3)
             })
 
     # make a json out of the data

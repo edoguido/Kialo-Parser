@@ -12,7 +12,7 @@ def add_entry(data, entry):
     for i in range(0, len(data)):
         # This comment's tree value
         parsing = data[i]['Tree']
-        parsed = re.findall('(\d{1,}(?=\.))+', parsing)
+        parsed = re.findall(r"(\d{1,}(?=\.))+", parsing)
         data[i][entry] = len(parsed)-1
 
     print(data)
@@ -20,4 +20,4 @@ def add_entry(data, entry):
 add_entry(input_data, 'Level')
 
 with open(FILE_OUTPUT, 'w') as fo:
-    fw.write(json.dumps(input_data, sort_keys=True, indent=4, separators=(',', ': ')))
+    fo.write(json.dumps(input_data, sort_keys=True, indent=4, separators=(',', ': ')))

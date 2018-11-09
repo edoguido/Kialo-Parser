@@ -19,7 +19,7 @@
 import time, json
 from watson_developer_cloud import ToneAnalyzerV3
 
-FILE_INPUT = '../Kialo-Hate-Speech-nesting.json'
+FILE_INPUT = '../kialo.json'
 FILE_OUTPUT = 'Kialo-Hate-Speech-analyzed.json'
 
 # we imported time because ToneAnalyzer versions have YYYY-MM-DD format
@@ -44,7 +44,7 @@ for i in range(0, len(input_data)):
     # sends data and requests the analysis
     tone_analysis = tone_analyzer.tone( {'text': input_texts}, 'application/json' ).get_result()
 
-    print i+1, "of", len(input_data), "processed"
+    print i+1, "of", len(input_data), "processed", "\r"
     # put analyzed content in a brand new key
     input_data[i]['tone_analysis'] = tone_analysis
     to_write = json.dumps(input_data, sort_keys=True, indent=4, separators=(',', ': '))

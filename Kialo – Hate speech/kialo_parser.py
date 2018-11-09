@@ -45,8 +45,9 @@ with open(sys.argv[1], 'r') as fi:
             })
 
     # make a json out of the data
-    data = json.dumps(result, sort_keys=False, indent=4, separators=(',', ': '))
+    output = json.dumps(result, sort_keys=False, indent=4, separators=(',', ': '))
 
-with open(sys.argv[2], 'w') as fo:
-    print data
-    fo.write(data)
+filename = sys.argv[2]
+with open(filename, 'w') as fo:
+    print output
+    fo.write(output)

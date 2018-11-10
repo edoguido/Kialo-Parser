@@ -22,10 +22,10 @@ with open(sys.argv[1], 'r') as fi:
     # iterate every row in the text file
     for line in lines:
         # find the tree position the comment is in
-        tree =  re.search(r"(^(\d{1,}.)+)", line)
+        tree =  re.search(r"^(\d{1,}.)+", line)
 
         # find if the comment is Pro or Con
-        stance = re.search(r"((Con|Pro)(?::))", line)
+        stance = re.search(r"(Con|Pro)(?::)", line)
 
         # find the text of the comment 
         content = re.search(r"((Con|Pro)(?::\s))(.*)", line)
@@ -40,7 +40,7 @@ with open(sys.argv[1], 'r') as fi:
         result.append({
             "Tree": tree.group(),
             "Level": level,
-            "Stance": stance.group(2),
+            "Stance": stance.group(1),
             "ToneInput": content.group(3)
             })
 

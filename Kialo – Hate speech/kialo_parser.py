@@ -16,7 +16,7 @@ with open(sys.argv[1], 'r') as fi:
 
     # we remove the first two lines of the text
     # as we don't need the header
-    for i in range(0, 3):
+    for line in range(0, 3):
         lines.pop(0)
 
     # iterate every row in the text file
@@ -25,10 +25,10 @@ with open(sys.argv[1], 'r') as fi:
         tree =  re.search(r"(^(\d{1,}.)+)", line)
 
         # find if the comment is Pro or Con
-        stance = re.search(r"(Con|Pro(?::))", line)
+        stance = re.search(r"((Con|Pro)(?::))", line)
 
         # find the text of the comment 
-        content = re.search(r"((Con|Pro):\s)(.*)", line)
+        content = re.search(r"((Con|Pro)(?::\s))(.*)", line)
 
         # define the hierarchy of the current comment 
         # which is based on the tree structure
@@ -40,7 +40,7 @@ with open(sys.argv[1], 'r') as fi:
         result.append({
             "Tree": tree.group(),
             "Level": level,
-            "Stance": stance.group(),
+            "Stance": stance.group(2),
             "ToneInput": content.group(3)
             })
 

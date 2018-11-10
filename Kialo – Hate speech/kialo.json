@@ -20,7 +20,7 @@
     {
         "Tree": "1.1.1.1.1.",
         "ToneInput": "Opinion tangentially connected to fact is not in itself fact; and facts are rarely labeled hate speech unless they are presented in a context to engender hate.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -50,13 +50,13 @@
     {
         "Tree": "1.1.3.1.",
         "ToneInput": "To legislate and enforce the illegality of every immoral act would require a totalitarian police state.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.1.3.1.1.",
         "ToneInput": "Legal, state-based sanctions crowd out private, community-based sanctions. We need more of the latter, and fewer of the former.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -98,7 +98,7 @@
     {
         "Tree": "1.1.3.2.1.1.1.1.",
         "ToneInput": "Hate speech consequences are actions perpetrated by those who felt sympathethic with the speech in the first place. Thus, limiting sympathy by exposing hate speech - not censoring it - has the priority.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 7
     },
     {
@@ -116,7 +116,7 @@
     {
         "Tree": "1.1.3.3.",
         "ToneInput": "Laws are there to protect society, not to reflect individual morality.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -152,13 +152,13 @@
     {
         "Tree": "1.1.4.1.1.",
         "ToneInput": "Which is \"a dazzling breakthrough for political philosophy in general and for libertarianism in particular\" as Murray Rothbard said.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
         "Tree": "1.1.5.",
         "ToneInput": "Hate speech should be discouraged around the world because of the emotional harm it does in the society amidst groups and humanity.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -182,7 +182,7 @@
     {
         "Tree": "1.1.5.3.1.",
         "ToneInput": "Social processes should indeed be guided by society not by lawmakers. Free speech is paramount from that perspective. There needs to be active discussion in the society and people should engage with each other \\(as we are here\\); hateful and even outright stupid thoughts need to be out in the open, so they could be criticized.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -200,31 +200,31 @@
     {
         "Tree": "1.1.5.3.2.1.1.",
         "ToneInput": "Black Lives matter, protesting against the existence of- and raising awareness of the [lowest relative murder](http://prntscr.com/kwn11k) rate if broken into racial group on racial group. Actuality: It being lowest, makes it least priority if one is to separate them in this fashion.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 6
     },
     {
         "Tree": "1.1.5.3.2.1.2.",
         "ToneInput": "Feminists claiming [rights inequality](https://en.wikipedia.org/wiki/Equal_Rights_Amendment) still exist, based on perceived male-controlled society, when in actuality it is simply a matter of statistical distribution and unreasonably \\(or as intellectual dishonesty\\) interpreting statistical performance.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 6
     },
     {
         "Tree": "1.1.5.3.2.1.2.1.",
         "ToneInput": "Women claiming there is a [Gender pay gap](https://i.imgur.com/YhfDNdX.png), while in actuality they are simply[falsely interpreting](https://www.cbsnews.com/news/the-gender-pay-gap-is-a-complete-myth/) a number of a statistic, without paying attention to what is behind it \\(a combination of factors like regular work hours, work-family relative focus, productivity, biological reasons= varying effects across different professions\\)",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 7
     },
     {
         "Tree": "1.1.5.3.2.1.3.",
         "ToneInput": "Vocal minorities pressure companies into enacting [gender quotas](https://www.bbc.com/news/business-42614795) and general diversity requirements that force employee selection [away from performance and niche skills](https://www.forbes.com/sites/paologaudiano/2018/04/02/stop-focusing-on-diversity/#190657ee6764). Said pressure is most often applied through [Heckler's veto](https://en.wikipedia.org/wiki/Heckler%27s_veto), as there is otherwise no other causality, nor legal requirement.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 6
     },
     {
         "Tree": "1.1.6.",
         "ToneInput": "Making people feel unsafe or inferior is morally wrong.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -242,13 +242,13 @@
     {
         "Tree": "1.1.6.3.",
         "ToneInput": "This is particularly true when such insults are based on an immutable characteristic.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.1.6.3.1.",
         "ToneInput": "Hate speech often takes the forms of racism, sexism or homophobia. Such insults are based respectively on the immutable characteristics of race, sex and sexuality.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -266,25 +266,25 @@
     {
         "Tree": "1.1.7.",
         "ToneInput": "Hate speech communicates Hate Bias, which is a clearly defined crime. Social Policy determines that crime is never protected.[law.cornell.edu](https://www.law.cornell.edu/uscode/text/18/249)",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
         "Tree": "1.2.",
         "ToneInput": "We ought to obey the U.S. Constitution's admonition against prohibiting free speech in the First Amendment.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 1
     },
     {
         "Tree": "1.2.1.",
         "ToneInput": "The U.S. Supreme Court has repeatedly ruled that hate speech is legally protected speech.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
         "Tree": "1.2.1.1.",
         "ToneInput": "For example, in Snyder v. Phelps, the Court ruled that the Westboro Baptist Church had the right to picket a funeral\u2014a deeply offensive act. [Six Supreme Court hate speech cases.](https://www.thoughtco.com/hate-speech-cases-721215)",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -296,19 +296,19 @@
     {
         "Tree": "1.2.1.3.",
         "ToneInput": "The European Court of Human Rights ruled that incitement of ethnic hatred \\([Balsyt\u0117-Lideikien\u0117 v. Lithuania](https://hudoc.echr.coe.int/eng#{\"itemid\":\\[\"002-1844\"\\]})\\) is not a violation of the freedom of speech and therefore admissiable.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.2.1.4.",
         "ToneInput": "Especially online hate speech laws have been ruled to be more permissable.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.2.1.4.1.",
         "ToneInput": "The four most recent cases of the European Court of Human Rights on this subject have all been deemed inadmissible or judged as no violation. \\([Delfi AS v. Estonia](https://hudoc.echr.coe.int/eng#{\"itemid\":\\[\"003-5110487-6300958\"\\]}), [MTE v Hungary](http://Magyar Tartalomszolgaltatok Egyesulete and Index.hu Zrt v. Hungary), [Pihl v. Sweden](https://hudoc.echr.coe.int/eng-press#{\"itemid\":\\[\"003-5650866-7156310\"\\]}) & [Smajic v. Bosnia](https://hudoc.echr.coe.int/eng-press#{\"itemid\":\\[\"003-5999255-7685303\"\\]})\\)",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -326,7 +326,7 @@
     {
         "Tree": "1.2.1.6.",
         "ToneInput": "There is no need to privilege the protection of any kind of speech when, in the United States, there is no state action to censor such speech. Private entities can and should do with any speech what they will.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -356,7 +356,7 @@
     {
         "Tree": "1.2.3.1.",
         "ToneInput": "If all forms of free speech are accepted, we are legitimazing fascism, terrorism or xenophobic speech, which come from deep belief, not from reason, and thus cannot be beaten through discussion. So the forms of hate speech that attempt against human rights should be forbidden.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -380,7 +380,7 @@
     {
         "Tree": "1.2.4.2.",
         "ToneInput": "There are already limitations of the right to free speech such as intentionally inciting panic/terror, libel and fraud.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -398,7 +398,7 @@
     {
         "Tree": "1.2.7.",
         "ToneInput": "The [First Amendment](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution) \\(U.S. Constitution\\) and [Article Nineteen](http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf) \\(United Nations Universal Declaration of Human Rights\\) do not place conditions upon or permit any curtailment of speech; protection of speech should be applied as broadly as possible.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -434,7 +434,7 @@
     {
         "Tree": "1.2.11.1.",
         "ToneInput": "Americans do have a right to freedom of speech, but when that speech causes intended visible harm to human beings; those individuals should be prosecuted. This does not mean people should not be able to say whatever they want, but simply that if they say something that hurts other humans beings, they must take responsibility for that.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -458,7 +458,7 @@
     {
         "Tree": "1.2.11.2.1.",
         "ToneInput": "\"Hate speech\" is subjective, since some people will take offense to something when others will not.  \"To think is to risk offending\".  The only exception to this would be a direct incitement to be violent.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -470,25 +470,25 @@
     {
         "Tree": "1.2.11.2.1.2.",
         "ToneInput": "The difficulty with legislating any form of speech lies in drawing the line between what is acceptable and what isn't. However, the value in avoiding the significant mental and societal harm caused by hate speech outweighs any negative consequences associated with drawing a difficult line.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.2.11.2.1.3.",
         "ToneInput": "The very definition of [what constitutes hate speech is subjective.](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/02/04/a-new-argument-for-hate-speech-laws-um-no/?noredirect=on&utm_term=.97701f5b747c)  Consequentially, legislative restrictions on what constitutes \"hate speech\" will be decided by the majority at the expense of what the minority believes to be their free speech rights.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.2.11.2.1.4.",
         "ToneInput": "Perception of \"hate\" in other people\"s speech lies with the observer, not necessarily with the speaker. This gives way to subjectivism, and ever increasing censorship.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.2.11.2.1.5.",
         "ToneInput": "The term 'hate speech' itself is nothing more than a disingenuous rhetorical device used to stifle the free exchange of ideas. The evidence lies in the adjective itself, which must be defended against before any controversy on the original subject can even be addressed.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
@@ -524,13 +524,13 @@
     {
         "Tree": "1.2.11.2.3.",
         "ToneInput": "Hate is an emotion.  If you prohibit some speech, based on the emotion and or thoughts of the one who spoke it, then you are suggesting that some thoughts or emotions should be illegal as well.  This is a slippery slope best avoided by simply protecting all speech.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
         "Tree": "1.2.11.2.4.",
         "ToneInput": "Any speech may be deemed hateful by someone who disagrees with it.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -548,7 +548,7 @@
     {
         "Tree": "1.2.11.2.6.",
         "ToneInput": "This ['selective censorship](https://www.propublica.org/article/facebook-hate-speech-censorship-internal-documents-algorithms)' is already in affect on Facebook. Its algorithms protect the speech of white men while censoring those of Black people.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -602,13 +602,13 @@
     {
         "Tree": "1.2.11.2.8.3.1.",
         "ToneInput": "For example, \"threatening\" may mean simply having a \"hostile quality\" or, in law, \"showing an intention to cause bodily harm.\" \"Abusive\" may be \"extremely offensive and insulting\" or \"engaging in or characterized by habitual violence and cruelty.\" Thus \"hate speech\" could be considered either constituting psychic harm or physical harm, which must be distinguished from one another.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 6
     },
     {
         "Tree": "1.2.11.2.9.",
         "ToneInput": "\"Hate speech\" should be protected because the definition of \"hate\" is broad, not objective, and often, practically, includes factual statements to which some may take offense \\(see [\"American Renaissance Banned from Twitter\"](https://www.amren.com/news/2017/12/press-release-jared-taylor-american-renaissance-banned-twitter/)\\). Because of their non-objective nature, offenses may be used by those in power to restrict criticism.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -626,37 +626,37 @@
     {
         "Tree": "1.2.11.2.10.",
         "ToneInput": "Hate speech laws are really about giving certain groups licence to degrade certain other groups. The laws are discriminatory and should not exist.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
         "Tree": "1.2.11.2.11.",
         "ToneInput": "Unpopular speech is the speech most in need of free speech protections since no one objects to popular speech.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
         "Tree": "1.2.12.",
         "ToneInput": "Part of free speech is the right to offend.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
         "Tree": "1.2.12.1.",
         "ToneInput": "Our rights are sacred. Our feelings are not. Once you have given away your rights, the government will not voluntarily give them back.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.2.12.1.1.",
         "ToneInput": "The Patriot Act still exists, even though the Government told Americans that it was a temporary measure to fight terrorists in 2001.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
         "Tree": "1.2.12.1.2.",
         "ToneInput": "When the political climate changes out of your favor in the future, your opponents will have the ability to silence your speech as well.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -704,13 +704,13 @@
     {
         "Tree": "1.2.12.1.4.1.1.1.",
         "ToneInput": "This is the reason that minors are generally tried under a different set of laws and are not legally responsible for themselves. ie why a child's parents make medical decisions for their children.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 7
     },
     {
         "Tree": "1.2.12.2.",
         "ToneInput": "\"Hate Speech\" is a made up pejorative, used by post-modernists in order to silence those will different opinions and beliefs. Short of inciting panic and direct calls for violence, all speech must be free, or we are not free people. [www.youtube.com](https://www.youtube.com/watch?v=FbsZAyKFh2g)",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -722,7 +722,7 @@
     {
         "Tree": "1.2.12.3.",
         "ToneInput": "If free speech is intended for anyone, it is for the most unsavory and unpopular opinions in existence. It is not necessary to protect already accepted ideas and modes of communication.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -746,7 +746,7 @@
     {
         "Tree": "1.2.12.4.1.1.",
         "ToneInput": "Often such comments are a result of racial biases or result in racial biases, this is not intrinsically the case.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
@@ -764,7 +764,7 @@
     {
         "Tree": "1.2.12.6.1.",
         "ToneInput": "Hate-Speech used as a political instrument might shape the public view on a minority and make them more vulnerable to attacks.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -776,13 +776,13 @@
     {
         "Tree": "1.2.12.6.1.2.",
         "ToneInput": "Hate speech is a politically motivated construct that targets non-protected groups while favoring protected groups.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.2.12.6.1.2.1.",
         "ToneInput": "-> See 1.1.3.1.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 6
     },
     {
@@ -806,7 +806,7 @@
     {
         "Tree": "1.2.12.6.1.2.3.",
         "ToneInput": "No rigorous, objective test of hate speech exists. It is a charge selectively levelled only at politically weak out-groups.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 6
     },
     {
@@ -818,13 +818,13 @@
     {
         "Tree": "1.2.12.6.1.2.3.1.1.",
         "ToneInput": "That term attempts to [diminish someone's opinion and status](https://twitter.com/joshdenny/status/997604506522140672?lang=en).",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 8
     },
     {
         "Tree": "1.2.12.6.1.2.3.1.2.",
         "ToneInput": "It is [censored in BF5](https://www.reddit.com/r/LivestreamFail/comments/9e2n9t/battlefield_v_censors_white_man_in_the_chat/), which is notorious for its SJW theme.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 8
     },
     {
@@ -836,19 +836,19 @@
     {
         "Tree": "1.2.12.6.1.4.",
         "ToneInput": "Hate speech is powerful and can lead to emulation, especially in societies which are experiencing economic difficulties.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.2.12.6.1.5.",
         "ToneInput": "Hate speech can be used by populist politicians to whip up the support by finding an \"enemy\" in a minority group.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.2.12.6.2.",
         "ToneInput": "Hate speech inculcates beliefs into vulnerable people and makes them more susceptible to being influenced to performing acts of discrimination, violence, and eventually killing those in the target field.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -866,19 +866,19 @@
     {
         "Tree": "1.2.12.6.2.3.",
         "ToneInput": "Those who are in the targeted field of the hate speech are at risk of this violence in all aspects of their lives, at work, at play, at their houses of worship, and even in their own homes.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.2.12.6.2.4.",
         "ToneInput": "Hate speech indoctrinates the vulnerable into adopting extremist views. It leads to wide spread radicalisation which is detrimental to society.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.2.12.6.3.",
         "ToneInput": "Hate speech is equivalent to an act of violence because of the pain it willingly inflicts on others. Hence it must be controlled.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -896,7 +896,7 @@
     {
         "Tree": "1.2.12.6.3.1.2.",
         "ToneInput": "People have legal responsibility for themselves. The consequences of your actions are your own.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 6
     },
     {
@@ -974,7 +974,7 @@
     {
         "Tree": "1.2.12.6.4.4.",
         "ToneInput": "International Law already prohibits incitement. This includes advocacy of national, racial or religious hatred that constitutes incitement to discrimination, hostility or violence. [International Covenant on Civil and Political Rights](https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx) \\(ICCPR\\) - signed by 172 countries.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
@@ -1052,7 +1052,7 @@
     {
         "Tree": "1.2.12.6.7.",
         "ToneInput": "Hate speech that calls for violence, or evokes symbolism or imagery of groups that have a history of perpetuating violence should be curtailed.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -1106,13 +1106,13 @@
     {
         "Tree": "1.2.12.6.9.2.1.1.",
         "ToneInput": "In a similar sense, mood can be deterministic for whether to commit a crime or not. Mood is not regulated by law, however. Despite being able to have different effects, depending on context and situation, the same can be said for hate speech.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 7
     },
     {
         "Tree": "1.2.12.6.10.",
         "ToneInput": "Hate speech creates an \"othering\" mentality which normalizes hateful behavior towards its targets by dehumanizing them. It is detrimental to the goal of a peaceful and collaborative society between humans.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -1136,13 +1136,13 @@
     {
         "Tree": "1.2.12.6.12.1.",
         "ToneInput": "Being able to hear different perspective can provide valuable lessons about where society still needs to grow as a whole.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.2.12.6.13.",
         "ToneInput": "It leads to further harmful consequences that might even involve crimes.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -1166,7 +1166,7 @@
     {
         "Tree": "1.2.12.6.13.4.",
         "ToneInput": "Hate speech can cause in the recipient of the message direct, adverse physical and emotional changes. The repeated use of such expressions cause and reinforce the subordination of these minorities.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
@@ -1178,19 +1178,19 @@
     {
         "Tree": "1.2.12.6.15.",
         "ToneInput": "Hate speech often gets easily, quickly wide spread by tabloids and general media, and thus learnt and replicated. [Neo-nazi rally in the news](https://www.haaretz.com/world-news/europe/hundreds-of-neo-nazis-march-in-berlin-on-anniversary-of-hess-death-1.6388393)",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
         "Tree": "1.2.12.6.15.1.",
         "ToneInput": "Sometimes even unwillingly creating heroes, icons and role-models for those hate groups. [Praise to a Neo-nazi murderer](http://leejohnbarnes.blogspot.com/2009/09/freedom-for-josue-estebanez-de-la-hija.html)",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.2.12.6.15.2.",
         "ToneInput": "We learn by imitation. That's why suicide usually doesn't get any media coverage. [social learning by imitation](http://web.colby.edu/socialpsychology/2015/03/21/social-learning-learning-through-imitation/)",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
@@ -1202,19 +1202,19 @@
     {
         "Tree": "1.2.13.",
         "ToneInput": "To announce something as hate speech, one is the judge, jury and executioner of what is acceptable and legitimate.  Anything but absolute free speech is someone else in control of speech.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
         "Tree": "1.2.14.",
         "ToneInput": "The Constitutions 'Bill of Rights'; were written with the belief that these rights were 'Self-evident' and, as such, these rights are 'inalienable'. It was never the Constitution granting these rights; it was only recognizing these 'Truths' exist. If an individual is seeking to remove one of these Rights it is the governments duty to protect these Rights.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
         "Tree": "1.2.15.",
         "ToneInput": "Hate speech being protected serves as a reminder of how it applies to everyone, not just people you agree with.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -1226,7 +1226,7 @@
     {
         "Tree": "1.3.",
         "ToneInput": "Only unpopular/disagreeable speech needs legal protection, as it's disagreeable unpopularity threatens it by default.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 1
     },
     {
@@ -1244,7 +1244,7 @@
     {
         "Tree": "1.4.",
         "ToneInput": "There's no dichotomy between harmless speech and harmful speech, because all speech has consequences.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 1
     },
     {
@@ -1262,7 +1262,7 @@
     {
         "Tree": "1.6.1.",
         "ToneInput": "-> See 1.2.11.2.9.1.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -1286,13 +1286,13 @@
     {
         "Tree": "1.6.5.",
         "ToneInput": "-> See 1.2.11.2.1.3.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
         "Tree": "1.6.6.",
         "ToneInput": "-> See 1.2.11.2.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -1346,7 +1346,7 @@
     {
         "Tree": "1.6.14.",
         "ToneInput": "Not all speech is protected, so hate speech could become illegal if we could define it in the most concise manner. If the use of the \"N\" word is considered provocative and brings about violent reactions then certain words could be considered illegal to use.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -1394,7 +1394,7 @@
     {
         "Tree": "1.7.3.",
         "ToneInput": "Hate speech in an educated society harms the speaker more than his/her intended victims. The key to fighting hate speech is not in regulating it but in educating the society how to deal with it and other forms of communication abuse \\(i.e. cyber-bullying\\).",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -1412,7 +1412,7 @@
     {
         "Tree": "1.7.4.1.",
         "ToneInput": "All speech on any topic has at least weak and indirect effects on policy that can add up to a matter of life or death for someone.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -1448,13 +1448,13 @@
     {
         "Tree": "1.7.4.3.3.",
         "ToneInput": "There are also areas of academia which focus on studying these issues and their effects on actors which would allow various governing bodies to make informed decisions on regulation.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
         "Tree": "1.7.4.4.",
         "ToneInput": "No authority established by a majority could be guaranteed to protect the free speech rights of the minority.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -1472,37 +1472,37 @@
     {
         "Tree": "1.7.4.4.1.2.",
         "ToneInput": "People should have the right to spaces where hate speech against them is not allowed. For example the family of a deceased black person should have the right to have a funeral without being harassed by the KKK.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.7.4.5.",
         "ToneInput": "Any speech that challenges the views of the majority \\(or those in power\\) could be classified as \"hateful.\"",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.7.4.5.1.",
         "ToneInput": "Recent [court cases cited by Amnesty International](https://elpais.com/elpais/2018/02/22/inenglish/1519292044_500937.html) \\(and [others](https://www.opendemocracy.net/can-europe-make-it/pablo-casta-o/free-speech-under-siege-in-spain)\\) arguably show freedom of speech being arbitrarily restricted in Spain on the grounds of being too extreme or \"[disrespectful](http://theconversation.com/spains-freedom-of-speech-repression-is-no-joke-75889),\" especially in cases that are [critical of the government](https://www.nytimes.com/2018/03/13/world/europe/echr-spain-free-speech.html).",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
         "Tree": "1.7.4.5.2.",
         "ToneInput": "If hate speech is illegal, hateful things will seem more hateful than they already were, giving them power.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
         "Tree": "1.7.4.6.",
         "ToneInput": "All speech is provocative.  An important part of the human experience is to confront, debate, discuss, and provide different perspectives. Without this, we are controlled, ruled, oppressed and dehumanised.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.7.4.6.1.",
         "ToneInput": "One of the most significant differences between humans and AI is in the ability of the former to consider context and weight up different perspectives. Bad interpretation is a result of lack of exposure to different contexts and little consideration.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -1520,7 +1520,7 @@
     {
         "Tree": "1.7.6.",
         "ToneInput": "Adding the qualifier of \"hate\" makes it not speech. It makes it something used to negatively impact a person's thoughts or well being--either by enforcing a false narrative or depriving someone else of their right to life, liberty and pursuit of happiness, by using false and slanderous words to denigrate a person based on their uncontrollable status.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -1544,7 +1544,7 @@
     {
         "Tree": "1.8.2.",
         "ToneInput": "Intolerant rhetoric often calls for explicitly or at least suggests the curtailing of liberties for certain other groups. Protecting hate speech places a society under the constant threat of having the liberties it prizes be undone.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -1574,13 +1574,13 @@
     {
         "Tree": "1.8.5.",
         "ToneInput": "Unlimited tolerance can lead to the extinction of tolerance. Defending tolerance requires to not tolerate the intolerant.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
         "Tree": "1.8.5.1.",
         "ToneInput": "Ethically, you need only tolerate the tolerant. Since hate speech is focused on attributes one is born with and thus not changeable, hate speech is by definition intolerant.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -1592,13 +1592,13 @@
     {
         "Tree": "1.8.7.",
         "ToneInput": "Allowing all forms of speech, including hateful and violent speech will eventually lead to the immunity developing in our species to feeling affected by insult/hate speech, removing the bigger downsides to hate speech and allowing people to use hate speech to blow off steam reducing stress.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
         "Tree": "1.8.8.",
         "ToneInput": "-> See 1.2.12.6.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -1616,7 +1616,7 @@
     {
         "Tree": "1.9.",
         "ToneInput": "Real, absolute freedom means the freedom to say anything you like, including hateful things.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 1
     },
     {
@@ -1634,7 +1634,7 @@
     {
         "Tree": "1.9.2.1.",
         "ToneInput": "Allowing hate speech can cause psychological harm to those its directed towards.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -1682,7 +1682,7 @@
     {
         "Tree": "1.9.4.2.",
         "ToneInput": "Pro abortion arguments are hate speech because they advocate harm to people based on their age. Advocating the division and dismantling of Israel is hate speech because it is anti-semitic. Threatening to single out churches for taxation is hate speech because it advocates harm to people based on their beliefs. Saying it is ok to punch a Nazi is hate speech.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -1706,13 +1706,13 @@
     {
         "Tree": "1.9.5.1.1.1.",
         "ToneInput": "And as an example, burning the US flag to protest policy instituted by the government is not hateful, nor does it threaten any specific person. Where as Burning the Pride Flag could be used to threaten an LGBTQ person/community. \\(Just as burning the flag to threaten Americans would be\\)",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.9.6.",
         "ToneInput": "A belief in free speech, must necessarily mean a belief that all speech is equally legitimate and deserving of protection.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -1736,7 +1736,7 @@
     {
         "Tree": "1.9.6.2.1.1.",
         "ToneInput": "For example, it is legal to leave a knife on your table.  You become liable when a child grabs that knife and cuts his/herself.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
@@ -1760,7 +1760,7 @@
     {
         "Tree": "1.9.6.2.2.",
         "ToneInput": "Stating that all speech is equally legitimate would promote the idea that researched facts are as legitimate as conjecture or fiction.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -1796,7 +1796,7 @@
     {
         "Tree": "1.9.7.1.1.1.1.",
         "ToneInput": "Majority support of a policy will allow the largest number of people to benefit.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 6
     },
     {
@@ -1820,49 +1820,49 @@
     {
         "Tree": "1.9.7.4.",
         "ToneInput": "It makes sense to limit people's freedom to perform particular actions \\(e.g. violence\\) in order to protect other people's freedom from such actions \\(the right to be free from violence\\).",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.9.7.5.",
         "ToneInput": "Society can only exist when individuals agree to trade off some freedoms in return for the ability to co-exist peacefully.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.9.7.6.",
         "ToneInput": "Hate speech relies on the idea that not all people are created equal and therefore cannot be legally protected.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.10.",
         "ToneInput": "-> See 1.7.4.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 1
     },
     {
         "Tree": "1.11.",
         "ToneInput": "Making hate speech illegal sets a dangerous precedent, which could lead to curtailment of all speech.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 1
     },
     {
         "Tree": "1.11.1.",
         "ToneInput": "Someone has to decide what constitutes hate-speech. Even with the best intentions this may lead to a bias, and with bad intentions this may lead to hate-speech laws being used to disproportionally silence specific ideas.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
         "Tree": "1.11.1.1.",
         "ToneInput": "-> See 1.2.11.2.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.11.1.2.",
         "ToneInput": "A persons personal views \\(bias\\) filter what another says and can take away a message the speaker was not saying or twist the message. [youtube.com](https://www.youtube.com/watch?v=3WMuzhQXJoY&t=791s)",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -1880,7 +1880,7 @@
     {
         "Tree": "1.11.1.5.",
         "ToneInput": "Hate speech cannot be properly determined, thus a law around hate speech could be abused by all sides.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -1898,7 +1898,7 @@
     {
         "Tree": "1.11.2.2.",
         "ToneInput": "-> See 1.9.6.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -1934,7 +1934,7 @@
     {
         "Tree": "1.11.3.2.2.1.",
         "ToneInput": "There is a large grey area between 'hate speech' and 'freedom of expression'. North Korea and Russian governments could easily claim that allowing people to publish anti-government articles is 'hate speech' because it is inciting hatred towards a particular group \\(the government\\) without justification \\(in their opinion\\).",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
@@ -1976,19 +1976,19 @@
     {
         "Tree": "1.11.3.5.",
         "ToneInput": "Whatever the law says is legitimate cannot be illegal.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.11.3.6.",
         "ToneInput": "Any course of action may be justified as long as there are no significant harms.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.11.4.",
         "ToneInput": "In the U.S. there are already examples of curbed speech. e.g. yelling fire in a crowded space, death threats against the president.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -2042,13 +2042,13 @@
     {
         "Tree": "1.11.8.",
         "ToneInput": "There are only 2 types of speech, free speech and state limited speech imposed through force.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
         "Tree": "1.11.9.",
         "ToneInput": "In countries with limits to free speech, people have been arrested for making a joke. Abuses due to restrictions on free speech has happened in the past and continues today.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -2066,25 +2066,25 @@
     {
         "Tree": "1.11.9.2.1.",
         "ToneInput": "Wikipedia lists 8 distinct types of speech which are limited or sanctioned within the United States, including libel, slander, incitement to suicide or violence, commercial speech \\(i.e., what can be communicated in advertisements\\), and threats of violence. [en.wikipedia.org](https://en.wikipedia.org/wiki/United_States_free_speech_exceptions)",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
         "Tree": "1.11.10.",
         "ToneInput": "The term \"hate speech\" varies based on culture and politics. Allowing the government to dictate what is legally considered hate speech, could easily be abused for political and social power",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
         "Tree": "1.11.10.1.",
         "ToneInput": "One such example is the anti islamophobia motion in Canada, [motion 103](https://en.wikipedia.org/wiki/Motion_103), there is no comparable motions for judeaphobia and christianophobia. Though the motion is not legally binding, it sets an example for how a government can give preferential treatment over other groups if hate speech laws are implemented.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.11.10.2.",
         "ToneInput": "Political lobbyism can easily work through this channel.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -2120,13 +2120,13 @@
     {
         "Tree": "1.11.10.3.4.1.",
         "ToneInput": "It is now clear that some of the possible models for leaving that were discussed in the referendum are no longer on offer.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.11.10.3.4.1.1.",
         "ToneInput": "Nigel Farage, Arron Banks, and other prominent \"leavers\" [made it appear](https://www.youtube.com/watch?v=0xGt3QmRSZY) that we could leave the EU while remaining in the single market, and some voters would have made their decision on this basis.  This however has been removed as an option by the Conservative government.  If this was known in advance of the referendum, the vote may have gone differently.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 6
     },
     {
@@ -2156,7 +2156,7 @@
     {
         "Tree": "1.11.10.3.4.1.1.3.",
         "ToneInput": "[Oliver Norgrove](https://www.newstatesman.com/politics/staggers/2017/08/if-brexit-was-vote-leave-single-market-why-didnt-campaigners-say-so), a former Vote Leave staffer, wrote that \"we argue for things which are utterly achievable in the EEA and make no mention at all of leaving the single market\"",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 7
     },
     {
@@ -2174,7 +2174,7 @@
     {
         "Tree": "1.11.10.3.4.1.1.4.",
         "ToneInput": "Boris Johnson wrote in his column for [The Telegraph](https://www.independent.co.uk/news/uk/politics/boris-johnson-eu-referendum-single-market-brexit-a7104846.html) that Britain \"will still have access to the single market\"",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 7
     },
     {
@@ -2204,7 +2204,7 @@
     {
         "Tree": "1.11.12.",
         "ToneInput": "-> See 1.9.6.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -2216,7 +2216,7 @@
     {
         "Tree": "1.12.",
         "ToneInput": "Hate speech may act as a much needed corrective for some people who's actions, customs, beliefs, and practices are considered by some people to be worthy of expressions of hatred, such words may act as alert for attention, for revision and maybe reconsideration by the bearer.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 1
     },
     {
@@ -2276,13 +2276,13 @@
     {
         "Tree": "1.13.2.1.1.2.",
         "ToneInput": "It is in fact a dictatorship of the ones who are most vocal about whatever they feel is not appropriate to them.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.13.2.2.",
         "ToneInput": "Respect is a subjective measure used to maintain the status quo. Any view that rejects the orthodoxy of society, will be labeled as disrespectful.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -2348,7 +2348,7 @@
     {
         "Tree": "1.13.5.1.1.",
         "ToneInput": "Hate speech is invariably associated with scientific or historic falsehoods. It often involves the concept of race, nationalistic or ethnical stereotyping, sexual bigotry, or religious zeal negating rationally emerging truths. As such, it is disingenuous and, on this basis,  it should be denounced and banned from the public discourse.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -2366,7 +2366,7 @@
     {
         "Tree": "1.13.5.2.",
         "ToneInput": "-> See 1.13.2.2.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -2390,7 +2390,7 @@
     {
         "Tree": "1.13.6.1.",
         "ToneInput": "To develop an effective anti-venom, one must first have a rigid understanding of the venom itself. Making hate speech illegal considerably limits the opportunity of furthering the understanding of the mechanisms behind a 'hate' mindset.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -2408,7 +2408,7 @@
     {
         "Tree": "1.13.8.",
         "ToneInput": "People who cannot express themselves in a rational manner that is respectful towards their audience, even on issues with which they vehemently disagree, are not mature enough to participate in debate.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -2432,7 +2432,7 @@
     {
         "Tree": "1.13.9.",
         "ToneInput": "The governmental permission of hate speech, particularly against democratically under-represented groups, can lead to alienation and segregation, which is not conducive to a healthy, cooperative and collaborative society. This consequentially makes the democratic process more easily hijacked by fascism and identity politics.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -2480,13 +2480,13 @@
     {
         "Tree": "1.14.3.",
         "ToneInput": "Hate speech has become a constant threat online, thus it should be regulated.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
         "Tree": "1.14.3.1.",
         "ToneInput": "The press and broadcasters are held accountable by laws and regulators. Any online content that can be viewed or read by the public should adhere to the same regulations, standards and accountability. Content should be aged rated and the identity of the person responsible for the content made very clear.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -2504,25 +2504,25 @@
     {
         "Tree": "1.14.3.1.2.1.",
         "ToneInput": "Social platforms only give you access to promoted content, which is by default safe or targets specific population groups. It is entirely up to the user to choose whether he wants to be exposed to something otherwise restricted via other sources.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.14.3.1.2.2.",
         "ToneInput": "In the same way people decide on which TV channels would be appropriate for their family, people online ought to choose what websites they visit and what content they subscribe to.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.14.3.1.2.2.1.",
         "ToneInput": "You will not be able to see explicit content on Facebook if you do not subscribe to channels or befriend people that have access to such.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 6
     },
     {
         "Tree": "1.14.3.2.",
         "ToneInput": "Hate speech online becomes amplified very fast which can feel extremely threatening to victims.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -2534,25 +2534,25 @@
     {
         "Tree": "1.14.3.3.1.",
         "ToneInput": "There is a difference between threatening someone, insulting them and \"hate speech\". A direct threat should not be acceptable \\(i.e. \"I am going to find you and hurt you\"\\). An insult can vary in intensity and people can take them differently, between friends an insult like \"you're an idiot\" can be made in jest, whilst someone with which you are unfamiliar could be offended. Hate speech is more open to interpretation and can hold less intent than a direct threat or insult.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
         "Tree": "1.14.3.3.2.",
         "ToneInput": "Hate speech is sometimes obvious, sometimes not obvious. Anti-semitic, fascist remarks are clearly defined as hate speech and easily identifiable, but the line gets fuzzy as we get closer to the present. We are all people of our time.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
         "Tree": "1.14.3.3.2.1.",
         "ToneInput": "We only see the past and some of the present. Current issues cannot be reliably categorized into hate speech and not hate speech, therefore we must legally protect possible hate speech in order to better figure out pressing matters of our times.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.14.3.3.2.2.",
         "ToneInput": "-> See 1.2.11.2.9.1.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
@@ -2594,19 +2594,19 @@
     {
         "Tree": "1.14.3.8.1.",
         "ToneInput": "The less compelling nature of it is understood by most parties and provokes more hate speech exclusively because of no consequences assumed. If an individual takes it differently, that is entirely his mistake and only he ought to be subject to it.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
         "Tree": "1.14.3.8.1.1.",
         "ToneInput": "The lack of effect from the provoked hate speech enables it to be used as a vent in order to avoid use in real life, where it may have consequences. Thus it is a good alternative.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.14.3.9.",
         "ToneInput": "Between August 2015 and July 2016, the Anti-Defamation League \\(ADL\\) reported 2.6 million tweets containing anti-Semitic language targeting journalists \\([pg. 2](https://www.adl.org/sites/default/files/documents/assets/pdf/press-center/CR_4862_Journalism-Task-Force_v2.pdf)\\)",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -2630,13 +2630,13 @@
     {
         "Tree": "1.15.",
         "ToneInput": "Attempts to censor \"hate speech\" can in many ways actually strengthen the side of \"hate speech\" and sway public opinion/sympathy in their favor.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 1
     },
     {
         "Tree": "1.15.1.",
         "ToneInput": "Allowing hate speech may actually contribute to exposing its inconsistencies.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -2672,7 +2672,7 @@
     {
         "Tree": "1.15.1.4.",
         "ToneInput": "As hate comes from lack of knowledge, the expression of hate speech will be opposed by arguments and knowledge and therby make the hate lessor as the hateful are more informed.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -2684,19 +2684,19 @@
     {
         "Tree": "1.15.1.6.",
         "ToneInput": "Addressing the faulty rationalizations that underlay a pathological belief publicly can give the observing public the argumentative structure to argue against those ideas in more personal circumstances.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.15.1.7.",
         "ToneInput": "When people are allowed to express their views, other people are able to explain why they are incorrect.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.15.1.7.1.",
         "ToneInput": "This can help change the mind of those making the hate speech, or at the very least encourage them to look at their views from a different perspective.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -2720,7 +2720,7 @@
     {
         "Tree": "1.15.1.7.3.",
         "ToneInput": "Hate speech should be allowed so that it can generate a public debate in which it will be defeated by reason, so that everyone can have access to the reasonings that prove hate speech wrong.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -2732,13 +2732,13 @@
     {
         "Tree": "1.15.1.7.4.1.",
         "ToneInput": "Hate speech legislation would prevent those like Hitler, who use public speaking as an opportunity to seize power over people's freedom, liberty, and free speech the chance to do so.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.15.2.",
         "ToneInput": "You never have to wonder where you stand with people who aren't afraid of free speech.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -2786,7 +2786,7 @@
     {
         "Tree": "1.16.3.",
         "ToneInput": "-> See 1.2.12.6.3.1.3.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -2816,13 +2816,13 @@
     {
         "Tree": "1.16.5.1.1.1.",
         "ToneInput": "-> See 1.11.9.2.1.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.16.5.2.",
         "ToneInput": "-> See 1.2.12.6.4.4.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -2834,7 +2834,7 @@
     {
         "Tree": "1.17.1.",
         "ToneInput": "As an example, a school hires openly gay teacher calling him a pedofile ia defamation but picketing outside the school against hiring homosexuals because they \\(the group\\) are pedofiles is not defamation and therefore laws against hate speech is needed to uphold equality under the law.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -2852,7 +2852,7 @@
     {
         "Tree": "1.18.2.",
         "ToneInput": "There is a link between hate speech and racially-motivated violence, [according to this 2015 study](https://www.economist.com/graphic-detail/2018/01/12/in-germany-online-hate-speech-has-real-world-consequences). [The results of this 2018 review](https://warwick.ac.uk/fac/soc/economics/staff/crschwarz/fanning-flames-hate.pdf) also implied that \"in the absence of anti-refugee posts on the AfD Facebook page 316 \\(9%\\) fewer anti-refugee incidents would have taken place\".",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -2864,31 +2864,31 @@
     {
         "Tree": "1.18.2.1.1.",
         "ToneInput": "When we control for selection bias it is easily observable. The bias in the sample is people that react violently and credit is given to a sought causality, rather than observation\\(claim for causality being any form of provocative speech, be it hate, insult or rational criticism\\).",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
         "Tree": "1.18.2.1.2.",
         "ToneInput": "Including a counterfactual is one good tool to clarify the finding results. A counterfactual would be a similar group that also commits hate crime or violent crime, but is not exposed to hate speech.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
         "Tree": "1.18.2.1.3.",
         "ToneInput": "Hate speech is [not proven](https://quillette.com/2018/01/18/hate-speech-not-induce-hatred/) to induce hatred and therefore can't be claimed causal for hate crime.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
         "Tree": "1.18.2.1.3.1.",
         "ToneInput": "\"There is no evidence that \u201chate speech\u201d by ordinary persons has any effect on violence whatsoever.\" - Once authority or peer pressure is taken out of the equation, hate speech loses any claim for causality on hate and therefore violence.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
         "Tree": "1.18.2.1.4.",
         "ToneInput": "Study claims causality without controlling the results for inference from the established causality of ghetto formation or other forms of foreign culture isolationism and absence of integration. The causality claim is then non-credible.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -2900,7 +2900,7 @@
     {
         "Tree": "1.19.",
         "ToneInput": "Criminalizing hate speech merely drives it underground.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 1
     },
     {
@@ -2924,7 +2924,7 @@
     {
         "Tree": "1.19.1.3.",
         "ToneInput": "One of the main tenants and operations of hate speech organizers like the neo-nazis is to prey on individuals, especially the youth, in order to indoctrinate them into furthering their hateful agenda. It is advantageous to both prevent these groups from reaching at risk individuals, as well as to elevate and educate those individuals to think in a positive way. There will always be individuals who are susceptible to hateful mentalities, but there doesn't have to be groups that perpetuate them.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -2936,19 +2936,19 @@
     {
         "Tree": "1.19.1.4.",
         "ToneInput": "The goal is not to hide hate speech from people, but to dissuade its use in society.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.19.1.4.1.",
         "ToneInput": "Hate speech, and the political and societal discourse that surrounds it, should be discussed with everyone openly. People should be allowed to express their hateful views as a manifestation of their psychological distress, not as a means to furthering a political agenda.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
         "Tree": "1.19.1.5.",
         "ToneInput": "Driving hate speech organizations underground allows individuals with hateful thoughts the opportunity to go to reputable sources of help with their problems.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -2960,7 +2960,7 @@
     {
         "Tree": "1.19.2.",
         "ToneInput": "Prohibition often exacerbates problematic behaviour.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -2972,7 +2972,7 @@
     {
         "Tree": "1.19.2.1.1.",
         "ToneInput": "The removal of hate speech from public discourse has a downstream effect on culture, making the propagation of racist ideas harder.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -2990,31 +2990,31 @@
     {
         "Tree": "1.19.2.2.",
         "ToneInput": "Hate speech functions as a warning for problems within society. Forbidding the warnings does not cease the consequences from occurring.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.19.2.2.1.",
         "ToneInput": "Critisizing the leader is usually highly illegal in most brutal dictatorship. It never stopped the revolution. In democracies governments can be critizised, enabling them to change course before public angers becomes too big.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
         "Tree": "1.19.2.3.",
         "ToneInput": "When racist people are unable to express their opinion,  perceive themselves as victims of oppression by the government and double down on their opinions.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.19.2.4.",
         "ToneInput": "If people cannot voice controversial or offensive opinions, those opinions cannot be challenged by others, and are hence likely to persist in society.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.19.2.5.",
         "ToneInput": "For example, criminal activity and the illegal manufacturing and smuggling of alcohol increased once the [Prohibition Act](https://www.history.com/topics/prohibition) began in the 1920s.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -3032,7 +3032,7 @@
     {
         "Tree": "1.19.2.6.",
         "ToneInput": "When people are prosecuted for hate speech, they will merely engage in that speech behind closed doors or within private echo-chambers that are likely to reinforce their offensive views.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -3044,7 +3044,7 @@
     {
         "Tree": "1.19.2.6.2.",
         "ToneInput": "If people's rational hatreds are reinforced, they are more likely to commit hate crimes, even if they are illegal.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -3062,7 +3062,7 @@
     {
         "Tree": "1.19.2.6.3.",
         "ToneInput": "Such actors can still hurt minorities by by voting for anti-minority candidates in elections.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -3080,19 +3080,19 @@
     {
         "Tree": "1.19.5.",
         "ToneInput": "Expression \\(and intellectual entertainment\\) of bad ideas is critical to their collaborative condemnation in a dialectic.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
         "Tree": "1.19.5.1.",
         "ToneInput": "People who are ignorant of arguments for/against bad ideas cannot refute them.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.19.5.1.1.",
         "ToneInput": "People who cannot refute bad ideas are vulnerable to propaganda.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -3116,7 +3116,7 @@
     {
         "Tree": "1.19.5.1.3.1.",
         "ToneInput": "Exposure to hate speech is necessary, but not sufficient to understanding why it is wrong.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 5
     },
     {
@@ -3164,25 +3164,25 @@
     {
         "Tree": "1.19.6.",
         "ToneInput": "-> See 1.19.2.6.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
         "Tree": "1.19.7.",
         "ToneInput": "People often get around hate speech laws by \"dog whistling\" and using innocuous language an terms to express the same hateful intent.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
         "Tree": "1.19.7.1.",
         "ToneInput": "When people \"dog whistle\" they are able to deny to themselves the fact that they are engaging in hate speech.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
         "Tree": "1.19.7.1.1.",
         "ToneInput": "People are more likely to engage in unacceptable behaviour when they don't have to acknowledge that the behaviour is unacceptable.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 4
     },
     {
@@ -3194,7 +3194,7 @@
     {
         "Tree": "1.19.7.3.",
         "ToneInput": "It is harder to call people out for their hateful ideas, when they do not express them in plain language.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 3
     },
     {
@@ -3212,19 +3212,19 @@
     {
         "Tree": "1.20.1.",
         "ToneInput": "Hate speech seeks to define an us-them relationship in which the out-group \\(\"they\"\\) are excluded from moral consideration and therefore legitimate targets for violence and to make hatred of the out-group part of the core identity of the in-group.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
         "Tree": "1.21.",
         "ToneInput": "The people of a nation should be free to hear ideas that the government doesn't want them to hear.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 1
     },
     {
         "Tree": "1.21.1.",
         "ToneInput": "Banning speech is a form of tyranny that can induce violent insurrection.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {
@@ -3254,7 +3254,7 @@
     {
         "Tree": "1.21.3.",
         "ToneInput": "The very speech governemnt hates most should be most protected.",
-        "Stance": "Pro:",
+        "Stance": "Pro",
         "Level": 2
     },
     {

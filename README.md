@@ -1,8 +1,4 @@
-# dd09-scripting
-
-A collection of useful scripts for data analysis.
-
-## Kialo Parser
+# Kialo Parser
 
 Kialo is a great platform. Unfortunately, it's really not so easy to analyze its data, since the only file that can be downloaded (scraping is not permitted) is in .txt format.
 

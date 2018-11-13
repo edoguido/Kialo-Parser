@@ -11,14 +11,14 @@
 # because version 3.7 doesn't seem to recognize
 # the 'watson_developer_cloud' module for import
 #
-# once converted, you can
-# head over to http://www.json-xls.com/json2xls
+# once converted, you can head over to
+# http://www.json-xls.com/json2xls
 # to convert the resulting json file to excel format.
 
 import sys, time, json, re
+
 input_file = sys.argv[1]
 output_file = sys.argv[2]
-ta_bol = sys.argv[3]
 
 with open(input_file, 'r') as fi:
     lines = []
@@ -64,7 +64,7 @@ with open(input_file, 'r') as fi:
             "ToneInput": content.group(3)
             })
 
-    if ta_bol == "True":
+    if len(sys.argv) >= 4:
         """
         ////////////////////////////
         IBM TONE ANALYZER OPERATIONS
@@ -77,8 +77,13 @@ with open(input_file, 'r') as fi:
         currentVersion = time.strftime("%Y-%m-%d")
         print("Using Tone Analyzer\'s version:" + currentVersion)
 
-        username = sys.argv[4]
-        passkey = sys.argv[5]
+        try:
+            username = sys.argv[4]
+            passkey = sys.argv[5]
+        except:
+            print "\n" "Not enough arguments for accessing Tone Analyzer's API."
+            print "Please, provide username and password as arguments after boolean.\n"
+
         tone_analyzer = ToneAnalyzerV3(
             version=currentVersion,
             username=username,
@@ -104,7 +109,7 @@ with open(input_file, 'r') as fi:
         ////////////////////////////
         """
 
-    elif ta_bol == "False":
+    elif len(sys.argv) == 3:
         to_write = json.dumps(result, sort_keys=True, indent=4, separators=(',', ': '))
 
 with open(output_file, 'w') as fo:

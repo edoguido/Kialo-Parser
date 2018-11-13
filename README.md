@@ -2,10 +2,10 @@
 
 Kialo is a great platform. Unfortunately, it's really not so easy to analyze its data, since the only file that can be downloaded (scraping is not permitted) is in .txt format.
 
-This python script takes two arguments:
+This python script takes four arguments:
 
 ```bash
-kialo_parser.py path/to/input.txt path/to/output.json
+kialo_parser.py path/to/input.txt path/to/output.json [True username password]
 ```
 
 and uses regular expressions to analyze the input Kialo's discussion data, storing different components in a json file, which has the following keys:

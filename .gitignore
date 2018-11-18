@@ -1,2 +1,5 @@
 
-Kialo parser/IBM Tone Analyzer/tone-analyzer-request.py
+.gitignore
+.DS_Store
+test/.vscode
+v.code-workspace

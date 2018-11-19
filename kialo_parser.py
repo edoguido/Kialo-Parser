@@ -8,14 +8,21 @@
 # from watson_developer_cloud import WatsonApiException
 #
 # python version required to run this script is 2.7
-# because version 3.7 doesn't seem to recognize
-# the 'watson_developer_cloud' module for import
+# because version 3.7 doesn't seem to recognize the 'watson_developer_cloud' module for import
 #
 # once converted, you can head over to
 # http://www.json-xls.com/json2xls
-# to convert the resulting json file to excel format.
+# to convert the resulting json file to excel format, if needed.
 
 import sys, time, json, re
+
+if len(sys.argv) < 3:
+    print "Not enough arguments. Aborting..."
+    sys.exit()
+
+elif len(sys.argv) > 3:
+    print "Too many arguments. Aborting..."
+    sys.exit()
 
 input_file = sys.argv[1]
 output_file = sys.argv[2]
@@ -64,7 +71,9 @@ with open(input_file, 'r') as fi:
             "ToneInput": content.group(3)
             })
 
-    if len(sys.argv) >= 4:
+    choose_analysis = raw_input("\nDo you wish to use IBM's Tone Analyzer after parsing the input file? [y/n]: ")
+
+    if choose_analysis == "y" or choose_analysis == "yes" or choose_analysis == "Y" or choose_analysis == "YES":
         """
         ////////////////////////////
         IBM TONE ANALYZER OPERATIONS
@@ -74,22 +83,44 @@ with open(input_file, 'r') as fi:
         from watson_developer_cloud import ToneAnalyzerV3
 
         # we imported time because ToneAnalyzer versions have YYYY-MM-DD format
-        currentVersion = time.strftime("%Y-%m-%d")
-        print("Using Tone Analyzer\'s version:" + currentVersion)
+        current_version = time.strftime("%Y-%m-%d")
+        print "\n"
+        print "///////////////////////////////////"
+        print "-----------------------------------"
+        print("Using Tone Analyzer\'s v" + current_version)
+        print "-----------------------------------"
+        print "///////////////////////////////////"
+        print "\n"
 
-        try:
-            username = sys.argv[4]
-            passkey = sys.argv[5]
-        except:
-            print "\n" "Not enough arguments for accessing Tone Analyzer's API."
-            print "Please, provide username and password as arguments after boolean.\n"
+        api_option = raw_input("Are you using an API key? [y/n]: ")
 
-        tone_analyzer = ToneAnalyzerV3(
-            version=currentVersion,
-            username=username,
-            password=passkey,
-            url='https://gateway.watsonplatform.net/tone-analyzer/api'
-        )
+        if api_option == "y":
+            log1 = raw_input("Please insert your API key\n")
+        elif api_option == "n":
+            log1 = raw_input("Please insert your Username\n")
+            log2 = raw_input("Please insert your Password\n")
+        else:
+            print("aborting")
+
+        url = raw_input("Now provide the server url for the Tone Analyzer\n")
+        print "All set. Initiating analysis process..."
+
+        if api_option == "y":
+            tone_analyzer = ToneAnalyzerV3(
+                version=current_version,
+                iam_apikey=log1,
+                url=url
+            )
+        elif api_option == "n":
+            tone_analyzer = ToneAnalyzerV3(
+                version=current_version,
+                username=log1,
+                password=log2,
+                url=url
+            )
+
+
+        # default url='https://gateway.watsonplatform.net/tone-analyzer/api'
 
         for entry in range(0, len(result)):
             # takes 'ToneInput' key values in input file
@@ -98,7 +129,7 @@ with open(input_file, 'r') as fi:
             # sends data and requests the analysis
             tone_analysis = tone_analyzer.tone( {'text': input_texts}, 'application/json' ).get_result()
 
-            print entry+1, "of", len(result), "processed", "\r"
+            print entry+1, "of", len(result), "processed", "\033[1A\r"
             # put analyzed content in a brand new key
             result[entry]['tone_analysis'] = tone_analysis
             to_write = json.dumps(result, sort_keys=True, indent=4, separators=(',', ': '))
@@ -109,9 +140,14 @@ with open(input_file, 'r') as fi:
         ////////////////////////////
         """
 
-    elif len(sys.argv) == 3:
+    elif choose_analysis != "y" or choose_analysis != "yes" or choose_analysis != "Y" or choose_analysis != "YES":
         to_write = json.dumps(result, sort_keys=True, indent=4, separators=(',', ': '))
 
 with open(output_file, 'w') as fo:
-    print to_write
+    # print to_write
     fo.write(to_write)
+    print "/////////////////////"
+    print "---------------------"
+    print "Operation completed."
+    print "---------------------"
+    print "/////////////////////"

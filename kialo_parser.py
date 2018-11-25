@@ -71,7 +71,7 @@ with open(input_file, 'r') as fi:
             "ToneInput": content.group(3)
             })
 
-    choose_analysis = raw_input("\nDo you wish to use IBM's Tone Analyzer after parsing the input file? [y/n]: ")
+    choose_analysis = raw_input("Do you wish to use IBM's Tone Analyzer after parsing the input file? [y/n]: ")
 
     if choose_analysis == "y" or choose_analysis == "yes" or choose_analysis == "Y" or choose_analysis == "YES":
         """
@@ -83,20 +83,20 @@ with open(input_file, 'r') as fi:
         from watson_developer_cloud import ToneAnalyzerV3
 
         # we imported time because ToneAnalyzer versions have YYYY-MM-DD format
-        current_version = time.strftime("%Y-%m-%d")
+        currentVersion = time.strftime("%Y-%m-%d")
         print "\n"
-        print "///////////////////////////////////"
-        print "-----------------------------------"
-        print("Using Tone Analyzer\'s v" + current_version)
-        print "-----------------------------------"
-        print "///////////////////////////////////"
+        print "/////////////////////////////////////////"
+        print "-----------------------------------------"
+        print("Using Tone Analyzer\'s version: " + currentVersion)
+        print "-----------------------------------------"
+        print "/////////////////////////////////////////"
         print "\n"
 
-        api_option = raw_input("Are you using an API key? [y/n]: ")
+        optType = raw_input("Are you using an API key? [y/n]: ")
 
-        if api_option == "y":
+        if optType == "y":
             log1 = raw_input("Please insert your API key\n")
-        elif api_option == "n":
+        elif optType == "n":
             log1 = raw_input("Please insert your Username\n")
             log2 = raw_input("Please insert your Password\n")
         else:
@@ -105,15 +105,15 @@ with open(input_file, 'r') as fi:
         url = raw_input("Now provide the server url for the Tone Analyzer\n")
         print "All set. Initiating analysis process..."
 
-        if api_option == "y":
+        if optType == "y":
             tone_analyzer = ToneAnalyzerV3(
-                version=current_version,
+                version=currentVersion,
                 iam_apikey=log1,
                 url=url
             )
-        elif api_option == "n":
+        elif optType == "n":
             tone_analyzer = ToneAnalyzerV3(
-                version=current_version,
+                version=currentVersion,
                 username=log1,
                 password=log2,
                 url=url
@@ -129,7 +129,7 @@ with open(input_file, 'r') as fi:
             # sends data and requests the analysis
             tone_analysis = tone_analyzer.tone( {'text': input_texts}, 'application/json' ).get_result()
 
-            print entry+1, "of", len(result), "processed", "\033[1A\r"
+            print entry+1, "of", len(result), "processed", "\r"
             # put analyzed content in a brand new key
             result[entry]['tone_analysis'] = tone_analysis
             to_write = json.dumps(result, sort_keys=True, indent=4, separators=(',', ': '))

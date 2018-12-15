@@ -1,18 +1,17 @@
-# script by Edoardo Guido
-# -----------------------------------------------------
-# upgrade tools in a new terminal window first
-# pip install --upgrade pip
-# pip install --upgrade watson-developer-cloud
-# -----------------------------------------------------
-# use following module in case of API errors
-# from watson_developer_cloud import WatsonApiException
-#
-# python version required to run this script is 2.7
-# because version 3.7 doesn't seem to recognize the 'watson_developer_cloud' module for import
-#
-# once converted, you can head over to
-# http://www.json-xls.com/json2xls
-# to convert the resulting json file to excel format, if needed.
+##                 script by Edoardo Guido                   ##
+##                edoardo.guido.93@gmail.com                 ##
+##                 https://edoardoguido.com                  ##
+## ========================================================= ##
+## # upgrade tools in a new terminal window first
+## pip install --upgrade pip
+## pip install --upgrade watson-developer-cloud
+##
+## pip3 install --upgrade pip
+## pip3 install --upgrade watson-developer-cloud
+## 
+## # use following module in case of API errors
+## # from watson_developer_cloud import WatsonApiException
+## ========================================================= ##
 
 import sys, time, json, re
 
@@ -46,6 +45,9 @@ with open(input_file, 'r') as fi:
     for line in range(0, 3):
         lines.pop(0)
 
+    ##                                            ##
+    ##                 REGEDITS                   ##
+    ##                                            ##
     # iterate every row in the text file
     for line in lines:
         # find the tree position the comment is in
@@ -84,13 +86,10 @@ with open(input_file, 'r') as fi:
 
         # we imported time because ToneAnalyzer versions have YYYY-MM-DD format
         currentVersion = time.strftime("%Y-%m-%d")
-        print "\n"
-        print "/////////////////////////////////////////"
-        print "-----------------------------------------"
-        print("Using Tone Analyzer\'s version: " + currentVersion)
-        print "-----------------------------------------"
-        print "/////////////////////////////////////////"
-        print "\n"
+        print_string = "Using Tone Analyzer\'s version: " + str(currentVersion)
+        print "=" * len(print_string)
+        print print_string
+        print "=" * len(print_string)
 
         optType = raw_input("Are you using an API key? [y/n]: ")
 
@@ -146,8 +145,9 @@ with open(input_file, 'r') as fi:
 with open(output_file, 'w') as fo:
     # print to_write
     fo.write(to_write)
-    print "/////////////////////"
-    print "---------------------"
-    print "Operation completed."
-    print "---------------------"
-    print "/////////////////////"
+    output_message = "Operation completed. Wrote " + str(len(result)) + " entries in " + str(output_file)
+    print
+    print "=" * len(output_message)
+    print output_message
+    print "=" * len(output_message)
+    print

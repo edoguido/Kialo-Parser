@@ -75,7 +75,7 @@ with open(input_file, 'r') as fi:
 
     choose_analysis = raw_input("Do you wish to use IBM's Tone Analyzer after parsing the input file? [y/n]: ")
 
-    if choose_analysis == "y" or choose_analysis == "yes" or choose_analysis == "Y" or choose_analysis == "YES":
+    if choose_analysis.upper() == "Y" or choose_analysis.upper() == "YES":
         """
         ////////////////////////////
         IBM TONE ANALYZER OPERATIONS
@@ -139,7 +139,7 @@ with open(input_file, 'r') as fi:
         ////////////////////////////
         """
 
-    elif choose_analysis != "y" or choose_analysis != "yes" or choose_analysis != "Y" or choose_analysis != "YES":
+    elif choose_analysis.upper() != "Y" or choose_analysis.upper() != "YES":
         to_write = json.dumps(result, sort_keys=True, indent=4, separators=(',', ': '))
 
 with open(output_file, 'w') as fo:

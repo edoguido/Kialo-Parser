@@ -1,17 +1,19 @@
-##                 script by Edoardo Guido                   ##
-##                edoardo.guido.93@gmail.com                 ##
-##                 https://edoardoguido.com                  ##
-## ========================================================= ##
-## # upgrade tools in a new terminal window first
-## pip install --upgrade pip
-## pip install --upgrade watson-developer-cloud
-##
-## pip3 install --upgrade pip
-## pip3 install --upgrade watson-developer-cloud
-## 
-## # use following module in case of API errors
-## # from watson_developer_cloud import WatsonApiException
-## ========================================================= ##
+'''
+                script by Edoardo Guido
+               edoardo.guido.93@gmail.com
+                https://edoardoguido.com
+=========================================================
+# upgrade tools in a new terminal window first
+pip install --upgrade pip
+pip install --upgrade watson-developer-cloud
+
+pip3 install --upgrade pip
+pip3 install --upgrade watson-developer-cloud
+
+# use following module in case of API errors
+from watson_developer_cloud import WatsonApiException
+=========================================================
+'''
 
 import sys, time, json, re
 

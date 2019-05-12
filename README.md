@@ -1,6 +1,6 @@
 # Kialo Parser
 
-Kialo is a great platform. Unfortunately, it's really not so easy to analyze its data, since the only file that can be downloaded (scraping is not permitted) is in .txt format.
+[Kialo](https://www.kialo.com/tour) is a great platform. Unfortunately, it's really not so easy to analyze its data, since the only file that can be downloaded (scraping is not permitted) is in .txt format.
 
 This python script takes two arguments:
 
